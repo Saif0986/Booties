@@ -1,0 +1,35 @@
+.nav-item a{
+    color: white;
+}
+.header{
+    background: url("image/banner.jpg") no-repeat center;
+   background-size: cover;
+    position: relative;
+    height: 50em;
+}
+
+
+.mt-5 p{
+    margin-top: 200px;
+    color: white;
+}
+.mt-5 h1{
+    color: white;
+}
+.product-new-top {
+    background-color: rgb(128, 128, 128);
+    
+}
+.icon {
+    color: rgb(128, 128, 128);
+    font-size:10px;
+}
+.cardtext{
+width: 60px;
+}
+.btn{
+    margin-left: 10px;
+}
+.list-unstyled {
+    margin-left: 9%;
+}
